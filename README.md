@@ -3,7 +3,7 @@
 ## Description
 The Masala Mantra is a platform designed to showcase the rich and diverse tapestry of Indian cuisine. Our website features a vibrant array of authentic Indian dishes, each representing the unique flavors and culinary traditions of different regions across India. With a focus on providing a delightful culinary journey, our website caters to food enthusiasts, connoisseurs of Indian cuisine, and anyone seeking to explore the flavors of India. Whether it's for discovering new dishes, placing orders, or simply immersing oneself in the world of Indian gastronomy, our website offers a valuable and immersive experience for all visitors.
 
-![indexPage](https://imagetolink.com/ib/H29t0Hmo8D.png)
+![img2](https://github.com/user-attachments/assets/8362f91a-be2e-4914-bae1-d266675f96ca)
 
 ## Technologies Used
 - **Frontend**: ejs, CSS, JavaScript
